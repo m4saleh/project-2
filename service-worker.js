@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/m4saleh.github.io/project-2/precache-manifest.342620cb50c973f14156005788e2b61a.js"
+  "/m4saleh.github.io/project-2/precache-manifest.63399318fb94b43dc1ca135e2cb0473a.js"
 );
 
 workbox.clientsClaim();
